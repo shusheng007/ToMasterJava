@@ -3,6 +3,7 @@ package top.ss007.reflection;
 
 
 import top.ss007.reflection.javaTypeSystem.TypeTest;
+import top.ss007.reflection.methodhandler.MethodHandlerDemo;
 
 import java.lang.reflect.*;
 import java.util.Arrays;
@@ -100,6 +101,14 @@ public class ReflectionService {
             e.printStackTrace();
         }
     }
+
+
+    public void invokeNameGetterMethod(){
+        new MethodHandlerDemo().handleNameGetter();
+    }
+
+
+
 }
 
 

@@ -5,8 +5,7 @@ package top.ss007.designPatterns.proxy;
  */
 public class SubjectStaticFactory {
 
-    public static ProxySubject getInstance()
-    {
+    public static ProxySubject getInstance() {
         return new ProxySubject(new RealSubject());
     }
 }

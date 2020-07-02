@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ec66d65-53b0-406a-95a7-e34d46211b55" name="Default Changelist" comment="" />
+    <list default="true" id="4ec66d65-53b0-406a-95a7-e34d46211b55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/top/ss007/reflection/methodhandler/HandleTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/ss007/reflection/methodhandler/MethodHandlerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/ss007/reflection/methodhandler/methodHandlerTutorial.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/ss007/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/proxy/SubjectStaticFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/ss007/designPatterns/proxy/SubjectStaticFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/reflection/ReflectionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/ss007/reflection/ReflectionService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +38,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\study\learnJava\ToMasterJava\src\top\ss007\designPatterns" />
       <recent name="D:\work\study\learnJava\ToMasterJava\src\top\ss007" />
     </key>
   </component>
@@ -53,17 +69,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593596826368</updated>
-      <workItem from="1593596829602" duration="818000" />
+      <workItem from="1593596829602" duration="10490000" />
     </task>
+    <task id="LOCAL-00001" summary="feature: add proxy pattern">
+      <created>1593597862304</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593597862304</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feature: add proxy pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: add proxy pattern" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-1155" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1593656781561">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1155" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593656781561" />
+    <state x="-1348" y="114" width="1108" height="811" key="CommitChangelistDialog2" timestamp="1593597861406">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1348" y="114" width="1108" height="811" key="CommitChangelistDialog2/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593597861406" />
+    <state x="-1514" y="210" key="DiffContextDialog" timestamp="1593597828408">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1514" y="210" key="DiffContextDialog/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593597828408" />
     <state x="-1180" y="278" key="FileChooserDialogImpl" timestamp="1593597678921">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1180" y="278" key="FileChooserDialogImpl/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593597678921" />
+    <state width="1876" height="54" key="GridCell.Tab.0.bottom" timestamp="1593661359703">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="54" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593661359703" />
+    <state width="1876" height="54" key="GridCell.Tab.0.center" timestamp="1593661359703">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="54" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593661359703" />
+    <state width="1876" height="54" key="GridCell.Tab.0.left" timestamp="1593661359702">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="54" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593661359702" />
+    <state width="1876" height="54" key="GridCell.Tab.0.right" timestamp="1593661359703">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="54" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593661359703" />
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1593597864904">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593597864904" />
   </component>
 </project>
