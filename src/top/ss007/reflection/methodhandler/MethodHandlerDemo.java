@@ -61,8 +61,6 @@ public class MethodHandlerDemo {
 
             //演示lookup的.findSpecial()方法
             new HandleTarget().invokeSpecial();
-
-
         } catch (NoSuchMethodException e) {
             e.printStackTrace();
         } catch (IllegalAccessException e) {
