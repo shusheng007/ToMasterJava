@@ -1,7 +1,7 @@
 package top.ss007.designPatterns.command;
 
 /**
- * 命令执行者
+ * 具体命令执行者，这就是个具体的业务类。
  */
 public class FanBingBingReceiver {
 

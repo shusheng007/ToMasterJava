@@ -1,5 +1,8 @@
 package top.ss007.designPatterns.command;
 
+/**
+ * 客户端，客户端负责构建命令并使用Invoker执行
+ */
 public class DogWang2Client {
 
     //享受xa机器人的服务

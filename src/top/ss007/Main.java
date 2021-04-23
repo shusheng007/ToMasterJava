@@ -1,6 +1,6 @@
 package top.ss007;
 
-import top.ss007.designPatterns.command.DogWang2Client;
+import top.ss007.designPatterns.chainofresponsibility.DogWang2Cor;
 
 public class Main {
 
@@ -17,8 +17,12 @@ public class Main {
 //        methodReference.testConstructorMethodRef();
 
         // 命令模式
-        DogWang2Client dogWang2=new DogWang2Client();
-        dogWang2.enjoySexRobot();
+//        DogWang2Client dogWang2=new DogWang2Client();
+//        dogWang2.enjoySexRobot();
+
+        //责任连模式
+        DogWang2Cor dogWang2Cor=new DogWang2Cor();
+        dogWang2Cor.applyBudget();
 
 
     }
