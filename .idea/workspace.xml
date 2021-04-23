@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ec66d65-53b0-406a-95a7-e34d46211b55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/ss007/reflection/methodhandler/HandleTargetFather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/ss007/reflection/methodhandler/HandleTargetGrandson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/ss007/reflection/methodhandler/HandleTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/ss007/reflection/methodhandler/HandleTarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/ss007/reflection/methodhandler/MethodHandlerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/ss007/reflection/methodhandler/MethodHandlerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/DogWang2Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/DogWang2Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/RobotInvoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/RobotInvoker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +23,6 @@
   <component name="ProjectId" id="1e51q138BEIHEiOvW4JrrRe2UII" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -60,6 +54,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -71,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593596826368</updated>
       <workItem from="1593596829602" duration="24070000" />
+      <workItem from="1619140432395" duration="492000" />
     </task>
     <task id="LOCAL-00001" summary="feature: add proxy pattern">
       <created>1593597862304</created>
@@ -90,7 +86,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feature: add proxy pattern" />
