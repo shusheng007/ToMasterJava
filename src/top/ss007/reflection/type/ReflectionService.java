@@ -1,8 +1,8 @@
-package top.ss007.reflection;
+package top.ss007.reflection.type;
 
 
 
-import top.ss007.reflection.javaTypeSystem.TypeTest;
+import top.ss007.reflection.type.TypeTest;
 import top.ss007.reflection.methodhandler.MethodHandlerDemo;
 
 import java.lang.reflect.*;

@@ -1,4 +1,4 @@
-package top.ss007.java8;
+package top.ss007.lambda;
 
 import java.util.Arrays;
 import java.util.function.*;

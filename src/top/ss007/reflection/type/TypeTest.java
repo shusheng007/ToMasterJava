@@ -1,4 +1,4 @@
-package top.ss007.reflection.javaTypeSystem;
+package top.ss007.reflection.type;
 
 import java.io.Serializable;
 import java.util.List;

@@ -2,8 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ec66d65-53b0-406a-95a7-e34d46211b55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/DogWang2Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/DogWang2Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/RobotInvoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/RobotInvoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/ss007/newdate/DateApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/ss007/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/builderPattern/BuilderPatternService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/builderPattern/simple/PersonalComputer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/builderPattern/traditionversion/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/builderPattern/traditionversion/ComputerBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/builderPattern/traditionversion/ComputerDirector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/builderPattern/traditionversion/LenovoComputerBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/builderPattern/traditionversion/MacComputerBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/chainofresponsibility/BudgetHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/chainofresponsibility/CFO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/chainofresponsibility/DogWang2Cor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/chainofresponsibility/GroupLeader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/chainofresponsibility/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/DogWang2Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/FanBingBingReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/RobotInvoker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/TiaoLaWuCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/TuoKuZiCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/TuoXiongZhaoCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/command/YangMiReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/dynamicProxy/DynSubjectStaticFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/dynamicProxy/SubjectInvocationHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/factoryPattern/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/factoryPattern/FactoryPatternService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/factoryPattern/MacComputer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/factoryPattern/MiComputer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/factoryPattern/abstractFactory/AbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/factoryPattern/abstractFactory/AppleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/factoryPattern/abstractFactory/IPhoto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/factoryPattern/abstractFactory/MiPhoto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/factoryPattern/abstractFactory/MobilePhoto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/factoryPattern/abstractFactory/XiaoMiFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/factoryPattern/factory/ComputerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/factoryPattern/factory/MacComputerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/factoryPattern/factory/MiComputerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/factoryPattern/simpleFactory/SimpleComputerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/proxy/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/proxy/ProxySubject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/proxy/RealSubject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/proxy/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/designPatterns/proxy/SubjectStaticFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/java8/MethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/ss007/lambda/MethodReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/reflection/ReflectionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/ss007/reflection/type/ReflectionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/reflection/javaTypeSystem/Custom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/ss007/reflection/type/Custom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/ss007/reflection/javaTypeSystem/TypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/ss007/reflection/type/TypeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,17 +69,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1e51q138BEIHEiOvW4JrrRe2UII" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/top/ss007/designPatterns" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\work\study\learnJava\ToMasterJava\src\top\ss007\designPatterns" />
@@ -67,6 +125,8 @@
       <updated>1593596826368</updated>
       <workItem from="1593596829602" duration="24070000" />
       <workItem from="1619140432395" duration="492000" />
+      <workItem from="1681288894517" duration="4615000" />
+      <workItem from="1681367117755" duration="4233000" />
     </task>
     <task id="LOCAL-00001" summary="feature: add proxy pattern">
       <created>1593597862304</created>
@@ -88,47 +148,20 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feature: add proxy pattern" />
     <MESSAGE value="feature: add MethodHandle demo" />
     <option name="LAST_COMMIT_MESSAGE" value="feature: add MethodHandle demo" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-1155" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1593656781561">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1155" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593656781561" />
-    <state x="-1348" y="114" width="1108" height="811" key="CommitChangelistDialog2" timestamp="1593661510328">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1348" y="114" width="1108" height="811" key="CommitChangelistDialog2/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593661510328" />
-    <state x="-1514" y="210" key="DiffContextDialog" timestamp="1593597828408">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1514" y="210" key="DiffContextDialog/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593597828408" />
-    <state x="-1180" y="278" key="FileChooserDialogImpl" timestamp="1593597678921">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1180" y="278" key="FileChooserDialogImpl/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593597678921" />
-    <state width="1876" height="235" key="GridCell.Tab.0.bottom" timestamp="1593681711501">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="235" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593681711501" />
-    <state width="1876" height="235" key="GridCell.Tab.0.center" timestamp="1593681711500">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="235" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593681711500" />
-    <state width="1876" height="235" key="GridCell.Tab.0.left" timestamp="1593681711500">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="235" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593681711500" />
-    <state width="1876" height="235" key="GridCell.Tab.0.right" timestamp="1593681711500">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="235" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593681711500" />
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1593661516082">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593661516082" />
   </component>
 </project>
